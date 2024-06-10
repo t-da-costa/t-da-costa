@@ -1,4 +1,9 @@
-## Hi there 👋
+# Thomas 'Orlando' DA COSTA
+## Education 🧑‍🎓
+- B. Sc. in Physics
+- B. Sc. in Mechanics
+- M. Sc. in Cognitive Sciences
+- Incoming: M. Sc. in Environmental Economics
 
 <!--
 **Dac-T/Dac-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
