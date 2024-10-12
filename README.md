@@ -1,7 +1,7 @@
 # Thomas 'Orlando' DA COSTA
 ## Contact 💻
 - thomas.da.costa@ens.psl.eu
-- t-da-costa@github.io
+- t-da-costa.github.io
 
 ## Research interests
 Dynamic Macroeconomics - Biodiversity, Natural Resources and Growth - Inequalities - Uncertainty and Non-Linearities in modeling - Behavioral Economics - Public policies.
