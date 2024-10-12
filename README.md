@@ -1,4 +1,3 @@
-# Thomas 'Orlando' DA COSTA
 ## Contact 📫 
 - 📧 thomas.da.costa@ens.psl.eu
 - 💻 https://t-da-costa.github.io
