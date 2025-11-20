@@ -8,7 +8,7 @@ Dynamic Macroeconomics - Biodiversity, Natural Resources and Growth - Inequaliti
 ## Education 🧑‍🎓
 - B. Sc. in Physics and B. Sc. in Mechanics
 - M. Sc. in Cognitive Sciences
-- Incoming: M. Sc. in Environmental Economics
+- M. Sc. in Environmental Economics
 
 <!--
 **Dac-T/Dac-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
